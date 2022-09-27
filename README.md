@@ -25,7 +25,7 @@ I worked on two projects, the first is a Full Stack application whose theme is p
 
 <p> HTML, CSS, Javascript, React.js, Redux, Express and Sequelize. </p>
 
-<p>The second project <a href="https://programando-ando-deploy.vercel.app/" target="_blank"> ProgramandoAndo </a> was developed in conjunction with my colleagues at Henry's BootCamp. It is a study platform where I was able to learn and use new technologies such as MongoDB and Mongoose in the database and behind, and Redux Toolkit and Tailwind in the Front.</p>
+<p>The second project <a href="https://programando-ando-deploy.vercel.app/" target="_blank" > ProgramandoAndo </a> was developed in conjunction with my colleagues at Henry's BootCamp. It is a study platform where I was able to learn and use new technologies such as MongoDB and Mongoose in the database and behind, and Redux Toolkit and Tailwind in the Front.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
