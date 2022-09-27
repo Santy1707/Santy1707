@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/santiago-vega-53970b217/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-vega-53970b217/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santiago-vega-53970b217/" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-vega-53970b217/" height="30" width="40" /></a>
 </p>
-
+ 
 <h3>Project experience</h3>
 <p>
 I worked on two projects, the first is a Full Stack application whose theme is pokemon, where you can see and create pokemon, filter them, see their details and delete the ones you have created, the technologies used were: </p>
