@@ -17,12 +17,6 @@
 
 <h3 align="left">My CV <a href="https://www.canva.com/design/DAFNWdSwZoY/Kkv-3KCi7i1cHcVJxul9_Q/edit?utm_content=DAFNWdSwZoY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target=”_blank”> Curriculum </a> </h3>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santiago-vega-53970b217/" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-vega-53970b217/" height="30" width="40" /></a>
-</p>
  
 <h3>Project experience</h3>
 <p> 
