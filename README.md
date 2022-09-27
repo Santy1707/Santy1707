@@ -2,6 +2,8 @@
 
 ### Actualmente buscando empleo y desarrollando proyectos para seguir aprendiendo
 
+#### Tech Skills
+
 - JavaScript
 - HTML
 - CSS
@@ -15,3 +17,12 @@
 - MongoDB - Mongoose
 - JWT
 
+#### Soft Skills
+
+- Scrum
+- Team Player
+- Communicative
+- Public Speaking
+- Cooperation
+- Proactive
+- Positive attitude
