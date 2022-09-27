@@ -42,4 +42,6 @@ I worked on two projects, the first is a Full Stack application whose theme is p
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santy1707&show_icons=true&theme=dark&locale=en&layout=compact" alt="santy1707" /></p>
 
+<br></br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santy1707&show_icons=true&theme=dark&locale=en" alt="santy1707" /></p>
