@@ -1,4 +1,6 @@
 
+<img src="https://www.mejorconweb.com/images/programacion-web-barcelona.jpg" alt="Imagen de Fondo">
+
 <h1 align="center">Hi 👋, I'm Santiago Vega</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
