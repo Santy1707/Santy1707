@@ -33,7 +33,7 @@ I worked on two projects, the first is a Full Stack application whose theme is p
 <p>The second project <a href="https://programando-ando-deploy.vercel.app/" target=”_blank”> ProgramandoAndo </a> was developed in conjunction with my colleagues at Henry's BootCamp. It is a study platform where I was able to learn and use new technologies such as MongoDB and Mongoose in the database and behind, and Redux Toolkit and Tailwind in the Front.</p>
 
 
-<img src="https://www.mejorconweb.com/images/programacion-web-barcelona.jpg" alt="Imagen de Fondo">
+<img src="PROGRAMANDO ANDO.JPG" alt="Imagen de Fondo">
 
 
 
