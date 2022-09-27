@@ -2,3 +2,7 @@
 
 ### Actualmente buscando empleo y desarrollando proyectos para seguir aprendiendo
 
+- JavaScript
+- HTML
+- CSS
+- React JS
