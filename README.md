@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning more about **React, Mongoose, Sequelize, Express**
 
-- 💬 Ask me about **HTML - CSS - JavaScript - REACT - Express - Node.js - Redux - Mongoose - Sequelize**
+- 💬 Ask me about **HTML - CSS - JavaScript - TypeScript - REACT - Express - Node.js - Redux - Mongoose - Sequelize**
 
 - 📫 How to reach me **santiago.alvincy.vega@gmail.com**
 
